@@ -1,0 +1,1 @@
+web: gunicorn djninja.wsgi --log-file
